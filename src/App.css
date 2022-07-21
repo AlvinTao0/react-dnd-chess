@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body, html, #root {
+  height: 100%;
+}
+.square {
+  font-size: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
